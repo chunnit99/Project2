@@ -1,0 +1,9 @@
+D:\Học ASP_NET\WebAPI\Ultilities\bin\Debug\netcoreapp3.1\Ultilities.deps.json
+D:\Học ASP_NET\WebAPI\Ultilities\bin\Debug\netcoreapp3.1\Ultilities.dll
+D:\Học ASP_NET\WebAPI\Ultilities\bin\Debug\netcoreapp3.1\Ultilities.pdb
+D:\Học ASP_NET\WebAPI\Ultilities\obj\Debug\netcoreapp3.1\Ultilities.csprojAssemblyReference.cache
+D:\Học ASP_NET\WebAPI\Ultilities\obj\Debug\netcoreapp3.1\Ultilities.csproj.CoreCompileInputs.cache
+D:\Học ASP_NET\WebAPI\Ultilities\obj\Debug\netcoreapp3.1\Ultilities.AssemblyInfoInputs.cache
+D:\Học ASP_NET\WebAPI\Ultilities\obj\Debug\netcoreapp3.1\Ultilities.AssemblyInfo.cs
+D:\Học ASP_NET\WebAPI\Ultilities\obj\Debug\netcoreapp3.1\Ultilities.dll
+D:\Học ASP_NET\WebAPI\Ultilities\obj\Debug\netcoreapp3.1\Ultilities.pdb
